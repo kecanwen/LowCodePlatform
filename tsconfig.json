@@ -1,4 +1,5 @@
 {
+  "extends": "./path.tsconfig.json", // 继承path.tsconfig.json文件
   "compilerOptions": {
     "target": "es5",
     "lib": [
