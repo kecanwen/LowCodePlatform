@@ -1,24 +1,5 @@
 <h1 align="center">从0到1实现 低代码平台</h1>
 
-project
-├── README.md 	
-└── src 项目的源代码
-    ├── components           基础公共组件
-    ├── constants            公共常量
-    ├── hooks     			 自定义hooks
-	├── layouts     		 页面布局
-	├── router     			 页面路由管理
-	├── services     		 接口服务
-	├── store     			 数据管理
-	├── utils     			 工具方法
-    ├── pages          		 页面
-        ├── Home     			 首页
-        ├── Login       	     登录页
-        ├── Register  		     注册页
-        ├── Manage 				 问卷管理页
-        ├── Question   		     问卷编辑页
-        ├── NotFound             404页面
-
 ## ⌨️ 开发计划
 
 Development Plan
